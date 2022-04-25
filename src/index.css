@@ -1,0 +1,23 @@
+
+.button{
+  background-color: greenyellow;
+  color: red;
+  padding: 7px;
+  font-size: 17px;
+  cursor: pointer;
+  border: none;
+  margin: 5px;
+  border-radius: 5px;
+  font-style: italic;
+}
+.button1{
+  background-color: greenyellow;
+  color: red;
+  padding: 7px;
+  font-size: 17px;
+  cursor: pointer;
+  border: none;
+  margin: 5px;
+  border-radius: 5px;
+  font-style: italic;
+}
